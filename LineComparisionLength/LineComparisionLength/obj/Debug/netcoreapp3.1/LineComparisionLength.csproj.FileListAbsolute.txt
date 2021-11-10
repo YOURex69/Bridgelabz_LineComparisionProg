@@ -1,0 +1,14 @@
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\bin\Debug\netcoreapp3.1\LineComparisionLength.exe
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\bin\Debug\netcoreapp3.1\LineComparisionLength.deps.json
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\bin\Debug\netcoreapp3.1\LineComparisionLength.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\bin\Debug\netcoreapp3.1\LineComparisionLength.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\bin\Debug\netcoreapp3.1\LineComparisionLength.dll
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\bin\Debug\netcoreapp3.1\LineComparisionLength.pdb
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\obj\Debug\netcoreapp3.1\LineComparisionLength.csproj.AssemblyReference.cache
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\obj\Debug\netcoreapp3.1\LineComparisionLength.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\obj\Debug\netcoreapp3.1\LineComparisionLength.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\obj\Debug\netcoreapp3.1\LineComparisionLength.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\obj\Debug\netcoreapp3.1\LineComparisionLength.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\obj\Debug\netcoreapp3.1\LineComparisionLength.dll
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\obj\Debug\netcoreapp3.1\LineComparisionLength.pdb
+D:\bridgelabz\Day8NetProblems\LineComparisionLength\LineComparisionLength\obj\Debug\netcoreapp3.1\LineComparisionLength.genruntimeconfig.cache
