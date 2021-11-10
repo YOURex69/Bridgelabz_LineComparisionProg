@@ -1,0 +1,13 @@
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\bin\Debug\netcoreapp3.1\LineComparisionTwoLines.exe
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\bin\Debug\netcoreapp3.1\LineComparisionTwoLines.deps.json
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\bin\Debug\netcoreapp3.1\LineComparisionTwoLines.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\bin\Debug\netcoreapp3.1\LineComparisionTwoLines.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\bin\Debug\netcoreapp3.1\LineComparisionTwoLines.dll
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\bin\Debug\netcoreapp3.1\LineComparisionTwoLines.pdb
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\obj\Debug\netcoreapp3.1\LineComparisionTwoLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\obj\Debug\netcoreapp3.1\LineComparisionTwoLines.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\obj\Debug\netcoreapp3.1\LineComparisionTwoLines.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\obj\Debug\netcoreapp3.1\LineComparisionTwoLines.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\obj\Debug\netcoreapp3.1\LineComparisionTwoLines.dll
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\obj\Debug\netcoreapp3.1\LineComparisionTwoLines.pdb
+D:\bridgelabz\Day8NetProblems\LineComparisionTwoLines\LineComparisionTwoLines\obj\Debug\netcoreapp3.1\LineComparisionTwoLines.genruntimeconfig.cache
