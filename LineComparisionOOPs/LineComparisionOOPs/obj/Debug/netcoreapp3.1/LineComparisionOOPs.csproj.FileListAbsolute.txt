@@ -1,0 +1,14 @@
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.exe
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.deps.json
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.dll
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\bin\Debug\netcoreapp3.1\LineComparisionOOPs.pdb
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.csproj.AssemblyReference.cache
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.dll
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.pdb
+D:\bridgelabz\Day8NetProblems\LineComparisionOOPs\LineComparisionOOPs\obj\Debug\netcoreapp3.1\LineComparisionOOPs.genruntimeconfig.cache
